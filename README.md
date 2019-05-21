@@ -1,6 +1,8 @@
 # git_test
 An example repository for introductory **Git** training
 
+<!-- HTML comment --!>
+
 - you can add bullets
   - and sub-bullets
 - [and links](https://bio-it.embl.de)
