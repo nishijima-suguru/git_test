@@ -1,12 +1,18 @@
 # git_test
 
+## Ingredients
+
 - avocado
 - onion
 - tomatoes
 - salt & pepper
 
-Put into a bowl and mix.
+## Instructions
 
+- chop onion and tomatoes
+- cut open avocado and remove stone
+- scoop out flesh
+- put into a bowl and mix with tomatoes and onion
 
 An example repository for introductory **Git** training
 
